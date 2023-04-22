@@ -1,0 +1,28 @@
+indian population(2011) link :  https://www.kaggle.com/datasets/danofer/india-census
+
+
+indian population(2001) link :   https://www.kaggle.com/datasets/bazuka/census2001
+
+
+indian population(2020) link   :   https://www.kaggle.com/datasets/rahuljangam/indian-population-history-1955-2020
+
+
+state_popu link                : https://www.kaggle.com/datasets/sureshraj256/india-state-population
+
+
+literacy rate(15 - 16) link   :   https://www.kaggle.com/datasets/rajanand/education-in-india
+
+
+literacy rate(01 - 11) link   :     https://www.kaggle.com/datasets/doncorleone92/govt-of-india-literacy-rate
+
+
+indian area1 link   :   https://www.kaggle.com/datasets/rushikeshlavate/states-and-union-territories-of-india-by-area
+
+
+crime1  link  :    https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india
+
+
+crime2(01 - 12)  link   :   https://www.kaggle.com/datasets/khanmohammadanas/district-wise-crimes-in-india
+
+
+crime3(01 - 20)  link  :   https://www.kaggle.com/datasets/thedevastator/crime-trends-in-india-from-2001-to-2020
